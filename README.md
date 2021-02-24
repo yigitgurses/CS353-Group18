@@ -1,5 +1,5 @@
 # CS353-Group18
-Food Ordering and Delivery System
+e-Meal: Food Ordering and Delivery System
 
 Participants
 
