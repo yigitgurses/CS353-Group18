@@ -3,13 +3,15 @@ Food Ordering and Delivery System
 
 Participants
 
-Melisa Taşpınar
+> Melisa Taşpınar
 
-Yiğit Gürses
+> Yiğit Gürses
 
-Mustafa Hakan Kara
+> Mustafa Hakan Kara
 
-Furkan Demir
+> Furkan Demir
+
+
 
 
 Project Website link: https://e-meal.github.io/
